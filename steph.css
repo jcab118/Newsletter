@@ -1,0 +1,11 @@
+body{background-color: grey;
+}
+h1 {
+  font-family:Garamond;
+  }
+  p{font-family: "Comic Sans MS"}
+  li{font-family: "Comic Sans MS"}
+#Underrated{float: right;} 
+#Over-rated{float: left;}
+#p1{color: blue;}
+#p2{color:gold;}
